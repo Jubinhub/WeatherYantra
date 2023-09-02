@@ -1,0 +1,25 @@
+.favList{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+.favList p{
+    color: rgb(245, 51, 51);
+}
+.favList h5{
+    color: rgb(162, 247, 34);
+}
+
+.favList h5:hover{
+    cursor: pointer;
+}
+
+.favList p:hover{
+    cursor: pointer;
+}
+
+.favList img {
+    margin-bottom: 2px;
+    height: 12px;
+    filter: invert(100%);
+}
