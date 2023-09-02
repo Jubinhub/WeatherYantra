@@ -3,3 +3,4 @@ A responsive weather web application, having key features such as search loactio
 # steps to run
 # npm i
 # npm start
+# Live on https://weatheryantra.netlify.app/
